@@ -1,20 +1,26 @@
 # Aparecida Nutrição
 
-Aplicação simples em HTML, CSS e JavaScript para acompanhar pacientes de nutrição. Não precisa instalar dependências.
+Aplicação demonstrativa em HTML, CSS e JavaScript para acompanhar pacientes de nutrição. Não precisa instalar dependências.
 
-## Executar
+## Abrir no VS Code
 
-Requer Node.js 18 ou superior. Na pasta do projeto, rode:
+1. Extraia o ZIP e abra a pasta do projeto em **File → Open Folder** (ou execute `code .` no terminal).
+2. Se o VS Code recomendar a extensão Prettier, instale-a para formatar os arquivos ao salvar.
+3. Pressione **F5** e escolha **Aparecida Nutrição**. A configuração executa os testes, inicia o servidor e abre `http://localhost:3000` no navegador.
+
+Também é possível iniciar a aplicação pelo terminal integrado:
 
 ```bash
 npm start
 ```
 
-Abra `http://localhost:3000` no navegador. Para verificar a lógica automatizada:
+Depois abra `http://localhost:3000`. Para rodar os testes:
 
 ```bash
 npm test
 ```
+
+As tarefas **Iniciar aplicação** e **Executar testes** também ficam disponíveis no menu **Terminal → Run Task**. O projeto requer Node.js 18 ou superior.
 
 ## Funcionalidades
 
