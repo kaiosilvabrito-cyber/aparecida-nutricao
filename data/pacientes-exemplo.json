@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Marina Exemplo",
+    "peso": 62,
+    "altura": 1.65,
+    "gordura": 21
+  },
+  {
+    "nome": "Lucas Exemplo",
+    "peso": 75,
+    "altura": 1.78,
+    "gordura": 17
+  },
+  {
+    "nome": "Fernanda Exemplo",
+    "peso": 58,
+    "altura": 1.62,
+    "gordura": 24
+  }
+]
